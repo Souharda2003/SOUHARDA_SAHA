@@ -60,7 +60,7 @@
 - 💼 Land a role in ML or full-stack development  
 
 <!--
-*Souharda2003/SOUHARDA-_SAHA* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Souharda2003/ SOUHARDA-_SAHA* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
